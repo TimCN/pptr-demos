@@ -1,0 +1,19 @@
+{
+  "name": "demo4",
+  "version": "1.0.0",
+  "description": "puppeteer SPA's SEO",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./src/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "http-proxy-middleware": "^1.0.3",
+    "nodemon": "^2.0.2",
+    "puppeteer-core": "^2.1.1"
+  }
+}
